@@ -1,25 +1,13 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overvlow: hidden;
-  background-color: #333;
+
+  background-color: lightblue;
 }
 
-li {
-  float: left;
+h1 {
+  color: white;
+  text-align: center;
 }
 
-li a {
-  display: block;
-  color: green;
-  text-align: left;
-  padding: 50px 5px;
-  text-decoration: none;
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
-
-/* Change the link color to #111 (black) on hover *\
-li a:hover {
-  background-color: #111;
-}
-
