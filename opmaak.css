@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+
+
 <head>
 <style>
 body {
@@ -8,4 +8,7 @@ body {
 <p style="background-color:Tomato;">
 hallo mijn naam is timert
 </body>
-</html>
+
+body {
+  background-color: lightblue;
+}
