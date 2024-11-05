@@ -1,14 +1,13 @@
 
 
-<head>
-<style>
-body {
+
+ul{
 <h1 style="border:2px solid Tomato;">Hello World</h1>
 
 <p style="background-color:Tomato;">
 hallo mijn naam is timert
-</body>
+}
 
-body {
+ul{
   background-color: lightblue;
 }
