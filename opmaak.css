@@ -9,11 +9,12 @@
 </body>
 
 
-ul{
-<h1 style="border:2px solid Tomato;">Hello World</h1>
+div {
+  background-color: green;
+}
 
-<p style="background-color:Tomato;">
-hallo mijn naam is timert
+div.first {
+  opacity: 0.1;
 }
 body {
   background-color: tomato;
